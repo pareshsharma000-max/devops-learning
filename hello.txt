@@ -1,2 +1,2 @@
 hello, i am learning git.
-this is my first git project.
+this is my first git project.i am learning git step by step
