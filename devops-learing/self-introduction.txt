@@ -12,3 +12,5 @@ My goal is to improve my practical
 knowledge of DevOps tools.
 
 i am learning git branching and pull requests.
+
+currently learning git and GitHub. 
