@@ -1,0 +1,12 @@
+Day-to-Day Activities
+
+1. Monitor Linux servers and infrastructure.
+2. Check system alerts and troubleshoot issues.
+3. Monitor CPU, memory, disk, and system performance.
+4. Work on incidents and service requests.
+5. Perform user and access management.
+6. Check application and system logs.
+7. Coordinate with application and infrastructure teams.
+8. Perform patching and system maintenance.
+9. Update tickets with troubleshooting details and resolution.
+10. Attend daily meetings and provide status updates.
