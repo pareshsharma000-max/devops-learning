@@ -1,0 +1,12 @@
+SELF INTRODUCTION
+
+Hello everyone,
+
+My name is Paresh.
+I am currently learning Git, GitHub and DevOps.
+
+I am practicing Git commands, repository
+management, branching and merging.
+
+My goal is to improve my practical
+knowledge of DevOps tools.
